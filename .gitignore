@@ -14,3 +14,5 @@ gen
 .idea/modules.xml
 .idea/my_leetcode.iml
 .idea/vcs.xml
+Pipfile
+Pipfile.lock
